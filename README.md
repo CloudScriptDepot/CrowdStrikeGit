@@ -1,2 +1,0 @@
-# CrowdStrikeGit
-All CrowdStrike
